@@ -4,7 +4,7 @@
 
 ### The future of AI creation is on-chain.
 
-Generate AI images from a prompt, own them with your wallet, and sell your work — or the prompt behind it — in a creator-owned marketplace on **BNB Chain**.
+Generate AI images from a prompt, own them with your wallet, and sell your work or the prompt behind it in a creator-owned marketplace on **BNB Chain**.
 
 <br>
 
@@ -37,7 +37,7 @@ Most AI tools treat your output as content on their servers, your prompt as a th
 | | |
 |---|---|
 | **Generate AI art** | Write a prompt, pay on-chain, and the image is tied to your wallet the moment it's made. |
-| **Own your work** | Every creation is backed by a verifiable on-chain transaction — not a private database row. |
+| **Own your work** | Every creation is backed by a verifiable on-chain transaction not a private database row. |
 | **Sell on the marketplace** | List images at your own price. Ownership transfers to the buyer on-chain when sold. |
 | **Sell the prompt** | List the prompt behind an image. The image stays public as a preview; the prompt unlocks only after purchase. |
 | **Earn on-chain** | Every sale is split automatically by smart contract: **80%** creator · **15%** treasury · **5%** burned. |
@@ -51,10 +51,10 @@ Most AI tools treat your output as content on their servers, your prompt as a th
 Connect  →  Generate  →  Own  →  List  →  Sell / Buy  →  Earn
 ```
 
-1. **Connect** your wallet — your identity, no email, no password — and claim a one-time welcome bonus.
+1. **Connect** your wallet your identity, no email, no password and claim a one-time welcome bonus.
 2. **Generate** an image from a text prompt, paid on-chain in NEA.
 3. **List** the image, or the prompt behind it, on the marketplace.
-4. **Earn** — when someone buys, the smart contract splits the payment straight to your wallet.
+4. **Earn** when someone buys, the smart contract splits the payment straight to your wallet.
 
 <br>
 
@@ -67,7 +67,7 @@ Connect  →  Generate  →  Own  →  List  →  Sell / Buy  →  Earn
 | **Welcome bonus** | 20 NEA on first connect |
 | **Generation** | 10 NEA per image |
 | **Sale split** | 80% creator · 15% treasury · 5% burned |
-| **Supply** | Deflationary — 5% of every sale is burned |
+| **Supply** | Deflationary 5% of every sale is burned |
 
 > NEA is a utility token for using the platform, not an investment. On testnet it carries no real-world value.
 
@@ -78,7 +78,7 @@ Connect  →  Generate  →  Own  →  List  →  Sell / Buy  →  Earn
 | Layer | Built with |
 |---|---|
 | **Chain** | BNB Chain (Testnet) · Solidity smart contracts |
-| **Token** | NEA — ERC-20 utility token |
+| **Token** | NEA ERC-20 utility token |
 | **Backend** | Node.js · Fastify · Prisma · PostgreSQL |
 | **Frontend** | HTML · CSS · JavaScript · ethers.js |
 | **Auth** | Wallet signature (JWT) |
@@ -87,7 +87,7 @@ Connect  →  Generate  →  Own  →  List  →  Sell / Buy  →  Earn
 
 ## ◢ Status
 
-NewEra is currently live on **BNB Chain Testnet** — the testing phase. It runs on test tokens, not real funds. We're still building, and we're not going to pretend otherwise.
+NewEra is currently live on **BNB Chain Testnet** the testing phase. It runs on test tokens, not real funds. We're still building, and we're not going to pretend otherwise.
 
 <br>
 
