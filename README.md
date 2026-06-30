@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◢ NewEra
+# ◢ NewEraAi
 
 ### The future of AI creation is on-chain.
 
@@ -24,7 +24,7 @@ Generate AI images from a prompt, own them with your wallet, and sell your work 
 
 ## ◢ What is NewEra?
 
-Most AI tools treat your output as content on their servers, your prompt as a throwaway, and the metrics they show you as numbers you're asked to trust. The creation is real — but everything around it is rented.
+Most AI tools treat your output as content on their servers, your prompt as a throwaway, and the metrics they show you as numbers you're asked to trust. The creation is real but everything around it is rented.
 
 **NewEra reframes creation as economic activity that you own.** A generation is a transaction. A sale is a transaction. Ownership lives on-chain, where anyone can verify it.
 
