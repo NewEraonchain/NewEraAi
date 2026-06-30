@@ -14,7 +14,7 @@ Generate AI images from a prompt, own them with your wallet, and sell your work 
 
 <br>
 
-[**Website**](#) &nbsp;·&nbsp; [**Docs**](#) &nbsp;·&nbsp; [**Whitepaper**](#) &nbsp;·&nbsp; [**Blog**](https://neweraonchain.substack.com) &nbsp;·&nbsp; [**X**](https://x.com/New_EraAI)
+[**Website**](#) &nbsp;·&nbsp; [**Whitepaper**](https://neweraai.mintlify.site/introduction) &nbsp;·&nbsp; [**Blog**](https://neweraonchain.substack.com) &nbsp;·&nbsp; [**X**](https://x.com/New_EraAI)
 
 </div>
 
