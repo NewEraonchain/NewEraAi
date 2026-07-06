@@ -96,7 +96,7 @@ NewEra is currently live on **BNB Chain Testnet** the testing phase. It runs on 
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-@New__EraAI-06070b?style=for-the-badge&logo=x&logoColor=cdff4d)](https://x.com/New_EraAI)
-[![Telegram](https://img.shields.io/badge/Telegram-New__EraAi-06070b?style=for-the-badge&logo=telegram&logoColor=cdff4d)](https://t.me/New_EraAi)
+[![Telegram](https://img.shields.io/badge/Telegram-New__EraAi-06070b?style=for-the-badge&logo=telegram&logoColor=cdff4d)](https://t.me/Leo_Park23)
 [![Substack](https://img.shields.io/badge/Substack-Blog-06070b?style=for-the-badge&logo=substack&logoColor=cdff4d)](https://neweraonchain.substack.com)
 [![Linktree](https://img.shields.io/badge/Linktree-All_links-06070b?style=for-the-badge&logo=linktree&logoColor=cdff4d)](https://linktr.ee/NewEraAI)
 
